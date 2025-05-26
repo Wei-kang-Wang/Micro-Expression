@@ -17,12 +17,6 @@ In this paper, we use the datasets [CASME2](http://casme.psych.ac.cn/casme/e2), 
 
 ## Train
 
-
-
-## Test
-
-
-
-## Pretrained models
-
-
+```bash
+python train.py
+```
