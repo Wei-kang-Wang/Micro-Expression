@@ -1,5 +1,6 @@
 ## [Learning from Macro-expressions: A Micro-expression Recognition Framework (ACMMM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413774)
 
+![img](pipeline.PNG)
 
 ## Installation
 ```bash
