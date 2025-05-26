@@ -1,3 +1,28 @@
-# Micro-Expression
-This code is for our paper Learning from Macro-expressions: A Micro-expression Recognition Framework. published in the ACM Multimedia 2020.
-There are four files written in Python. main.py defines the hyperparameters and you should run from here. HelperFunction.py defines the plot functions, accuracy calculation functions, in order to give useful results for the experiments. ModelDefinition.py defines the structure of our model. DatasetDefinition.py defines preprocessing techniques for both training and testing phases and offers data structure for the experiment. 
+## [Learning from Macro-expressions: A Micro-expression Recognition Framework (ACMMM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413774)
+
+
+## Installation
+```bash
+conda create -n micro-net python=3.8
+conda activate micro-net
+conda install pytorch cudatoolkit -c pytorch
+pip install -r requirement.txt
+```
+
+
+## Dataset
+
+In this paper, we use the datasets [CASME2](http://casme.psych.ac.cn/casme/e2), [SMIC](https://service.tib.eu/ldmservice/dataset/smic) and [SAMM](https://helward.mmu.ac.uk/STAFF/M.Yap/dataset.php). Please download them from their official website respectively.
+
+
+## Train
+
+
+
+## Test
+
+
+
+## Pretrained models
+
+
